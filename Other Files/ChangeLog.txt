@@ -4,3 +4,6 @@ Official release of the Jeanouflage website under the name: jeanouflage.github.i
 26th of May 2024:
 Created this ChangeLog.txt file to list stuff I do on the website.
 The website has been moved from jeanouflage.github.io/jeanoufla.ge to jeanouflage.github.io as it looks cleaner.
+
+06/03/2025:
+whole website overhaul w/ background, 4 new pages random ahhh shit idk i should go study
